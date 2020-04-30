@@ -1,4 +1,4 @@
-This repository is for the Micronaut Flyway issue TODO
+This repository is for the Micronaut Flyway issue https://github.com/micronaut-projects/micronaut-flyway/issues/30.
 
 ### To run:
 
